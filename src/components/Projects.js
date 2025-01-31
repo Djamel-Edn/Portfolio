@@ -14,34 +14,34 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "ALG-Chat",
+      description: "Chbat-App",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Promptopia  ",
+      description: "Prompt Sharing for AI",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "HooBank",
+      description: "Landing Page",
       imgUrl: projImg4,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Saas Landing-page",
+      description: "Sass Landing-page",
       imgUrl: projImg5,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Viditor",
+      description: "Landing-page",
       imgUrl: projImg6,
+    },
+    {
+      title: "Anime Browsing",
+      description: "Infinite-Scrolling",
+      imgUrl: projImg3,
     },
   ];
 
